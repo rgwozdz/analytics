@@ -1,6 +1,6 @@
 {
-  "name": "@analytics/aws-pinpoint",
-  "version": "0.4.2",
+  "name": "rgwozdz-aws-pinpoint",
+  "version": "0.1.0-alpha.0",
   "description": "AWS Pinpoint integration for 'analytics' module",
   "projectMeta": {
     "provider": {
